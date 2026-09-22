@@ -111,27 +111,27 @@ The lab models behaviors associated with these techniques; it does not reproduce
 
 ### Docker services running
 
-![Docker containers and services running](evidence/01-docker-services-running.png)
+![Docker containers and services running](01-docker-services-running.png)
 
-### Raw Nginx events ingested into Splunk
+### Raw Nginx events ingested into Splunkh
 
-![Raw Nginx access logs in Splunk](evidence/02-nginx-events-in-splunk.png)
+![Raw Nginx access logs in Splunk](02-nginx-events-in-splunk.png)
 
 ### Failed-login threshold detection
 
-![Splunk search showing repeated failed logins](evidence/03-failed-login-threshold.png)
+![Splunk search showing repeated failed logins](03-failed-login-threshold.png)
 
 ### Failed logins correlated with a successful login
 
-![Splunk correlation showing failures followed by success](evidence/04-failures-followed-by-success.png)
+![Splunk correlation showing failures followed by success](04-failures-followed-by-success.png)
 
 ### MITRE ATT&CK research
 
-![MITRE ATT&CK Active Scanning technique](evidence/05-mitre-active-scanning.png)
+![MITRE ATT&CK Active Scanning technique](05-mitre-active-scanning.png)
 
 ### Scheduled Splunk alert
 
-![Scheduled Failed Login Burst Followed by Success alert](evidence/06-scheduled-splunk-alert.png)
+![Scheduled Failed Login Burst Followed by Success alert](06-scheduled-splunk-alert.png)
 
 ## Skills Demonstrated
 
